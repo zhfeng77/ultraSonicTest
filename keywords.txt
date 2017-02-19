@@ -1,0 +1,2 @@
+SR04.hKEYWORD1
+GetDistance	KEYWORD2
